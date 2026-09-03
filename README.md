@@ -14,11 +14,11 @@
 
 <br>
 
-<img src="./assets/java.gif" width="55">
+<img src="./assets/java.png" width="55">
 &nbsp;&nbsp;&nbsp;
 <img src="./assets/c++.png" width="55">
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/python.gif" width="55">
+<img src="./assets/python.png" width="55">
 &nbsp;&nbsp;&nbsp;
 <img src="./assets/javascript.png" width="55">
 &nbsp;&nbsp;&nbsp;
