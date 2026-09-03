@@ -76,18 +76,9 @@ Estado      : Aprendiendo
 - SQL Server
 
 ---
-
-## `> proyectos`
-
-### `Sistema-Funcional-Tipo-Fridays`
-
-**Proyecto desarrollado en C++.**
-
-El proyecto trabaja con algoritmos de ordenamiento, programación orientada a objetos y buenas prácticas de programación.
-
 ---
 
-## `> aprendiendo`
+## `> Stack`
 
 ```text
 Java
