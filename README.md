@@ -26,8 +26,10 @@
 
 ## `> sobre_mi`
 
-Soy estudiante de **Ingeniería de Software**.
+Soy estudiante de **Ingeniería de Software** de la universidad peruana de ciencias aplicadas UPC.
+Me considero una persona **responsable, comprometida y orientada a resultados**, con facilidad para asumir responsabilidades y liderar proyectos. Tengo la capacidad de mantener la calma y buscar soluciones ante problemas o situaciones de último momento, adaptándome a los cambios y trabajando de manera organizada para cumplir los objetivos planteados.
 
+También cuento con conocimientos en **metodologías ágiles**, especialmente **Scrum**, y experiencia trabajando de manera colaborativa, organizando tareas, coordinando actividades y dando seguimiento al desarrollo de proyectos. Busco seguir fortaleciendo mis habilidades tanto técnicas como de gestión, aprendiendo de cada proyecto y de los desafíos que se presentan durante el proceso.
 Actualmente estoy aprendiendo y desarrollando mis conocimientos
 en programación y desarrollo de software.
 
@@ -36,37 +38,35 @@ con el tiempo, orientarme hacia el desarrollo de aplicaciones
 móviles.
 
 ```text
-Nombre      : Alejandro Samir Choquehuanca
+Nombre      : Alejandro Samir Choquehuanca Vasquez
 Carrera     : Ingeniería de Software
 Ubicación   : Lima, Perú
 Estado      : Aprendiendo
 
-> tecnologias
-Lenguajes
-Java
-C++
-Python
-JavaScript
-Desarrollo Web
-HTML
-CSS
-JavaScript
-Herramientas
-Git
-GitHub
-VS Code
-IntelliJ IDEA
-Linux
-Windows
-> proyectos
-ascv.dev
+## `> tecnologias`
+>Lenguajes
+- Java
+- C++
+- Python
+- JavaScript
 
-Mi proyecto personal para experimentar con mi perfil de
-GitHub y aprender a trabajar con Git, GitHub, Markdown
-y Python.
+### Desarrollo Web
+- HTML
+- CSS
+- JavaScript
 
-Actualmente incluye una representación ASCII de mi perfil
-y animaciones creadas con Python.
+### Herramientas
+- Git
+- GitHub
+- VS Code
+- Linux
+- Windows
+
+### Bases de datos
+- Oracle 
+- SQL Server
+
+
 
 Sistema-Funcional-Tipo-Fridays
 
@@ -78,23 +78,24 @@ de programación.
 
 > aprendiendo
 Java
-██░░░░░░░░░░░░░░░░░░
+██::::::::::::::::::
 
 C++
-██████████████░░░░░░
+██████████████::::::
 
 Python
-████████████░░░░░░░░
-
-Desarrollo Web
-█████████░░░░░░░░░░░
+██████████::::::::::
 
 Desarrollo Mobile
-█░░░░░░░░░░░░░░░░░░░
+█:::::::::::::::::::
 
 Actualmente estoy comenzando a explorar el desarrollo de
-aplicaciones móviles.
+aplicaciones móviles, me llama mucho la atencion, el poder crear soluciones tecnologias moviles
 
 > contacto
+<div align="center">
 
+[<img src="./assets/linkedin.png" width="40">](https://www.linkedin.com/in/alejandro-choquehuanca/)
+
+</div>
 
